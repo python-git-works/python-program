@@ -5,7 +5,6 @@
 
 # Expected output
 # The sum of number from 1 to 50 is:
-
 # Using range function
 '''n = list(range(1,51))
 print(sum(n)) '''

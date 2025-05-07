@@ -9,6 +9,7 @@ Problem Statement:  Write a Python program that:
 #Enter a number: 7
 #7 is a odd number.
 
+
 a = int(input('Enter a Number: '))
 if ((a % 2) == 0):
     print(a ,"is a Even number.")
